@@ -124,9 +124,9 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
 
 ### 🖱️ Executável OneFile (.exe)
 
-Para facilitar o uso diário e tornar o processo mais prático, pode-se gerar um executável "onefile" (.exe) que pode ser rodado diretamente com dois cliques, sem a necessidade de abrir o prompt de comando ou editores de código.
+Para facilitar o uso diário e tornar o processo mais prático, foi gerado um executável "onefile" (.exe) que pode ser rodado diretamente com dois cliques, sem a necessidade de abrir o prompt de comando ou programas de codagem como JupyterLab ou VS Code.
 
-📂 O arquivo `.exe`, quando gerado, pode ser colocado na área de trabalho do Windows e executado normalmente como se fosse o script `.py`.
+📂 O arquivo `.exe` está localizado na área de trabalho do Windows, e ao executá-lo, o processo funciona normalmente como se estivesse rodando o script `.py`.
 
 ---
 
