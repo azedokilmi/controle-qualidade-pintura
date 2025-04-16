@@ -72,12 +72,6 @@ Este projeto em Python foi desenvolvido para registrar, analisar e visualizar da
 
 ---
 
-## 🖼️ Exemplo de Gráfico Gerado
-
-*(adicione aqui uma imagem `PINTURA_DIA_*.png` como preview do gráfico)*
-
----
-
 ## 💡 Melhorias Futuras
 
 - Interface gráfica (GUI) para facilitar entrada de dados.
