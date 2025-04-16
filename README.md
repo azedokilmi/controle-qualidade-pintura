@@ -47,6 +47,7 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
    - Os gráficos são salvos automaticamente na **área de trabalho** com nomes como (data baseada na atual):
      
      - `PINTURA_DIA_31-03-2025.png` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-DIA-31-03-2025.png))
+     - 
      - `PINTURA_NOITE_31-03-2025.png` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-NOITE-31-03-2025.png))
      
 ---
