@@ -136,6 +136,5 @@ Para facilitar o uso diário e tornar o processo mais prático, pode-se gerar um
 
 ## ✍️ Autor
 
-Feito com dedicação por Pedro Cicilini de Nadai 💪 
-
+Feito com dedicação por Pedro Cicilini de Nadai 💪\
 GitHub: [@azedokilmi](https://github.com/azedokilmi)
