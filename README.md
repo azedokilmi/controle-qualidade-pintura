@@ -30,7 +30,7 @@ Este projeto em Python foi desenvolvido para registrar, analisar e visualizar da
    - Inclui anotações técnicas sobre o processo de pintura.
 
 3. 💾 **Exportação Automática**
-   - Os gráficos são salvos automaticamente na **área de trabalho** com nomes como:
+   - Os gráficos são salvos automaticamente na **área de trabalho** com nomes como (data baseada na atual):
      ```
      PINTURA_DIA_15-04-2025.png
      PINTURA_NOITE_15-04-2025.png
