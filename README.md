@@ -47,7 +47,7 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
    - Os gráficos são salvos automaticamente na **área de trabalho** com nomes como (data baseada na atual):
      
      - `PINTURA_DIA_31-03-2025.png` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-DIA-31-03-2025.png))
-     - 
+       
      - `PINTURA_NOITE_31-03-2025.png` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-NOITE-31-03-2025.png))
      
 ---
@@ -89,10 +89,11 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
 
 ### ▶️ Rodar o Programa
 
-1. **Tenha o Python instalado**  
-Recomendado: Python 3.8+
+1. **Tenha o Python instalado**
+   
+   Recomendado: Python 3.8+
 
-2. **Instale as dependências do projeto:**
+3. **Instale as dependências do projeto:**
 
    No terminal (ou prompt de comando), execute o comando:
 
@@ -100,7 +101,7 @@ Recomendado: Python 3.8+
    pip install pandas matplotlib numpy
    ```
 
-3. **Execute o programa:**
+4. **Execute o programa:**
 
    No terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-DIA-E-NOITE.py)) deve estar localizado e execute o comando abaixo:
 
@@ -109,7 +110,7 @@ Recomendado: Python 3.8+
    ```
    Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
 
-4. **Entrada de Dados:**
+5. **Entrada de Dados:**
 
    O terminal solicitará que você insira ou remova dados com base no padrão:
    ```
