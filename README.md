@@ -101,11 +101,12 @@ Recomendado: Python 3.8+
 
 3. **Execute o programa:**
 
-   Navegue até o local onde o script `.py` (👉 [Clique aqui para visualizar o arquivo]()) está salvo e rode:
+   No terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/PINTURA-DIA-E-NOITE.py)) deve estar localizado e execute o comando abaixo:
 
    ```bash
    python PINTURA-DIA-E-NOITE.py
    ```
+   Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
 
 4. **Entrada de Dados:**
 
