@@ -54,7 +54,8 @@ Este projeto em Python foi desenvolvido para registrar, analisar e visualizar da
 
 ## 🚀 Como Executar
 
-1. **Tenha o Python instalado (3.8+)**
+1. **Tenha o Python instalado**  
+   Recomendado: Python 3.8+
 
 2. **Instale as dependências**:
 
