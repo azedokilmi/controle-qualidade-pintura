@@ -1,10 +1,19 @@
 # 🎨 Controle de Qualidade da Pintura
 
-Este projeto em Python foi desenvolvido para registrar, analisar e visualizar dados de **qualidade da pintura** em processos industriais, organizando os resultados por turnos (dia e noite). Além da entrada e remoção de dados, o sistema gera gráficos analíticos com destaques visuais como **picos, vales e limites de qualidade**, fornecendo uma ferramenta prática para o acompanhamento e melhoria contínua do processo.
+Este projeto tem como objetivo analisar e monitorar a qualidade da pintura automotiva ao longo do tempo, com base em dados históricos e critérios técnicos de avaliação. Através da geração de gráficos e métricas, é possível identificar padrões de desempenho, desvios e oportunidades de melhoria nos turnos de produção.
 
 ---
 
 ## ⚙️ Como Funciona?
+
+1. ## 🧠 Funcionalidades
+
+- Leitura e processamento de dados históricos de pintura.
+- Geração automática de gráficos com limites de controle e faixas de qualidade perfeita.
+- Análise individual por turno (dia e noite).
+- Destaque visual para picos e vales de qualidade.
+- Anotações explicativas com intervenções técnicas realizadas.
+- Exportação de gráficos com alta resolução em PNG.
 
 1. 📥 **Entrada e Edição de Dados**
    - Os dados são registrados manualmente pelo terminal no seguinte formato:
@@ -16,8 +25,10 @@ Este projeto em Python foi desenvolvido para registrar, analisar e visualizar da
      remover DD/MM/AAAA, Veículo, Métrica
      ```
    - Os dados são salvos em dois arquivos de texto:
-     - `DADOS_PINTURA_DIA.txt`
-     - `DADOS_PINTURA_NOITE.txt`
+     - `DADOS_PINTURA_DIA.txt` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/DADOS-PINTURA-DIA.txt))
+     - `DADOS_PINTURA_NOITE.txt` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/DADOS-PINTURA-NOITE.txt))
+
+      ![Prévia dos Dados do Dia e Noite](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/preview-dados.png)
 
 2. 📊 **Geração de Gráficos**
    - Os gráficos mostram a **evolução da métrica de qualidade da pintura** ao longo do tempo.
