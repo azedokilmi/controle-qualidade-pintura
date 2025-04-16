@@ -17,10 +17,12 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
 
 2. 📥 **Entrada e Edição de Dados**
    - Os dados são registrados manualmente pelo terminal no seguinte formato:
+     
      ```
      DD/MM/AAAA, Veículo, Métrica
      ```
    - Também é possível **remover dados** digitando:
+     
      ```
      remover DD/MM/AAAA, Veículo, Métrica
      ```
@@ -82,7 +84,7 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
 #### `PINTURA-DIA-E-NOITE.py`
 - Script principal do projeto que deve estar na mesma pasta (preferencialmente na área de trabalho).
 
-![Prévia do Script]()
+![Prévia do Script](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/preview-script.png)
 
 ### ▶️ Rodar o Programa
 
