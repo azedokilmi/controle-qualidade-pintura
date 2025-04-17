@@ -39,8 +39,6 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
      - `DADOS_PINTURA_NOITE.txt` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/DADOS-PINTURA-NOITE.txt))
        
      - Os arquivos `.txt` atualizados são copiados para a área de trabalho.
-    
-    ![Prévia dos Dados do Dia e Noite](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/preview-dados.png)
 
 4. 📊 **Geração de Gráficos**
    
@@ -107,6 +105,8 @@ Este projeto tem como objetivo analisar e monitorar a qualidade da pintura autom
 - Arquivos onde os dados são armazenados e atualizados.
   
 - O script irá gerar e atualizar automaticamente conforme as entradas.
+
+![Prévia dos Dados do Dia e Noite](https://github.com/azedokilmi/controle-qualidade-pintura/blob/main/preview-dados.png)
 
 #### `PINTURA-DIA-E-NOITE.py`
 
